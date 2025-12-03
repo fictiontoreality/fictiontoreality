@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="center">Hello there! I'm Jesse 👋</h3>
 
-<!--
-**fictiontoreality/fictiontoreality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://fictiontoreality.dev"><img src="https://img.shields.io/badge/website-fictiontoreality.dev-green" /></a>
 
-Here are some ideas to get you started:
+I build distributed systems and data infrastructure, with a focus on MLOps and large-scale data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- Built procedurally generated 3D music videos at a Cartoon Network startup
+- Rearchitected AI infrastructure for Amazon Alexa
+- Founded and sold an AI-powered, privacy-oriented project management startup
+
+## Currently
+**Open to lead/principal engineering roles** in:
+- Distributed systems & infrastructure
+- Data engineering & big data platforms
+- MLOps & ML infrastructure
+- Remote positions at stable, established companies
+
+If you're hiring or want to chat about interesting infrastructure problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
+
+## Recent work
