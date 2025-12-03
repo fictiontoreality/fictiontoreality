@@ -13,7 +13,7 @@ I build distributed systems and data infrastructure, with a focus on MLOps and l
 **Open to lead/principal engineering roles** in:
 - Distributed systems & infrastructure
 - Data engineering & big data platforms
-- MLOps & ML infrastructure
+- MLOps/LLMOps & ML infrastructure
 - Remote positions at stable, established companies
 
 If you're hiring or want to chat about interesting infrastructure problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
