@@ -1,6 +1,6 @@
 <h3 align="center">Hello there! I'm Jesse 👋</h3>
 
-<a href="https://fictiontoreality.dev"><img src="https://img.shields.io/badge/website-fictiontoreality.dev-green" /></a>
+<a href="https://fictiontoreality.dev"><img src="https://img.shields.io/badge/website-fictiontoreality.dev-blue" /></a>
 
 I build distributed systems and data infrastructure, with a focus on MLOps and large-scale data processing.
 
@@ -19,3 +19,4 @@ I build distributed systems and data infrastructure, with a focus on MLOps and l
 If you're hiring or want to chat about interesting infrastructure problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
 
 ## Recent work
+See my pinned projects below.
