@@ -2,7 +2,7 @@
 
 <a href="https://fictiontoreality.dev"><img src="https://img.shields.io/badge/website-fictiontoreality.dev-blue" /></a>
 
-I build distributed systems for automation, AI, and big data.
+I am passionate about automation. Distributed systems, AI, and big data are my tools of choice.
 
 ## Background
 - Built procedurally generated 3D music videos at a Cartoon Network startup
