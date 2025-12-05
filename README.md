@@ -2,7 +2,7 @@
 
 <a href="https://fictiontoreality.dev"><img src="https://img.shields.io/badge/website-fictiontoreality.dev-blue" /></a>
 
-I build distributed systems and data infrastructure, with a focus on MLOps and large-scale data processing.
+I build distributed systems for automation, AI, and big data.
 
 ## Background
 - Built procedurally generated 3D music videos at a Cartoon Network startup
@@ -13,7 +13,7 @@ I build distributed systems and data infrastructure, with a focus on MLOps and l
 **Open to lead/principal engineering roles** in:
 - Distributed systems & infrastructure
 - Data engineering & big data platforms
-- MLOps/LLMOps & ML infrastructure
+- AI systems & infrastructure
 - Remote positions at stable, established companies
 
 If you're hiring or want to chat about interesting infrastructure problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
