@@ -16,7 +16,7 @@ I build automation systems at scale, bringing us closer to Star Trek one release
 - Automation / AI systems & infrastructure
 - Remote positions at stable, established companies
 
-If you're hiring or want to chat about interesting infrastructure problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
+If you're hiring or want to chat about interesting automation problems, feel free to reach out: [fictiontoreality.dev](https://fictiontoreality.dev)
 
 ## Recent work
 Check out my pinned projects below.
